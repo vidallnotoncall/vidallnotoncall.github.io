@@ -30,6 +30,10 @@ nav{
   text-decoration: none;
   color: #000;
 }
+.nav > li > a:hover{
+  color: #0000ff;
+  font-size: 20px;
+}
 /*main section*/
 main{
   width: 100%;
